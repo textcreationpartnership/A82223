@@ -1,0 +1,272 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the proceedings of the Kings Majesty at Carisbrooke Castle in the Isle of Wight, touching the Engagement of Sir Charles Lucas, &amp; his farces at Colchester, with the Parliaments Army. With Another great discovery at a most horrid and bloudy design against the person of the King, shewing the manner how he should have been bereaved of his life, and his Royall blood spilt upon the ground. [Re]ad in the Honourable House of Peers, and their proceedings thereupon, touching the chiefe actor. [Li]kewise, the Lord Generalls letter to a great Commander in Colchester, and his answer thereunto, in relation to the King.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82223</idno>
+            <idno type="STC">Wing D750</idno>
+            <idno type="STC">Thomason E451_8</idno>
+            <idno type="STC">ESTC R205245</idno>
+            <idno type="EEBO-CITATION">99864662</idno>
+            <idno type="PROQUEST">99864662</idno>
+            <idno type="VID">161924</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82223)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161924)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 71:E451[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the proceedings of the Kings Majesty at Carisbrooke Castle in the Isle of Wight, touching the Engagement of Sir Charles Lucas, &amp; his farces at Colchester, with the Parliaments Army. With Another great discovery at a most horrid and bloudy design against the person of the King, shewing the manner how he should have been bereaved of his life, and his Royall blood spilt upon the ground. [Re]ad in the Honourable House of Peers, and their proceedings thereupon, touching the chiefe actor. [Li]kewise, the Lord Generalls letter to a great Commander in Colchester, and his answer thereunto, in relation to the King.</title>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+                  <author>Dowcet, Abraham.</author>
+                  <author>Rolph, Edmund.</author>
+                  <author>Calum, William.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <p>
+                     <name type="place">London,</name>
+                     <date>printed in the year of discovery 1648.</date>
+                  </p>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In fact a series of letters, three of which are signed by Abraham Dowcet (p.3), Edward Rolph (p.4), and William Calum (p.6).</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lucas, Charles, --  Sir, 1613-1648 --  Early works to 1800.</term>
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>England and Wales. --  Sovereign (1625-1649 : Charles I) --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I,1625-1649 --  Early works to 1800.</term>
+               <term>Colchester (England) --  History --  Siege, 1648 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161924:1" rendition="simple:additions"/>
+            <p>A DECLARATION OF The proceedings of the <hi>Kings Majeſty</hi> at <hi>Carisbrooke</hi> Caſtle in the Iſle of WIGHT, touching the Engagement of Sir <hi>Charles Lucas,</hi> &amp; his forces at <hi>Colcheſter,</hi> with the Parliaments Army.</p>
+            <p>WITH Another great Diſcovery of a moſt horrid and bloudy Deſign againſt the perſon of the <hi>King;</hi> ſhewing the manner how he ſhould have been bereaved of his life, and his Royall blood ſpilt upon the ground.</p>
+            <p>And in the Honourable Houſe of Piers, and their proceedings thereupon, touching the chiefe Actor</p>
+            <p>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ikewiſe, the Lord Generalls Letter to a great Commander in <hi>Colcheſter,</hi> and his Anſwer thereunto, in R<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lation to the KING.</p>
+            <figure>
+               <figDesc>depiction of an armed gentleman</figDesc>
+            </figure>
+            <figure>
+               <figDesc>depiction of King Charles I</figDesc>
+               <head>C R</head>
+            </figure>
+            <p>LONDON, Printed in the Year of Diſcovery 1648</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:161924:2"/>
+            <pb n="1" facs="tcp:161924:2"/>
+            <head>Another Meſſage from the Lord General Fairfax, to the Earl of Norwich, and Sir Charles Lucas.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THis day his Excellenci<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſent in a letter, ſigni<g ref="char:EOLhyphen"/>fying, That the Parliament being ſenſible of their ſe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſing of Sir <hi>Wil. Maſſam</hi> and others of the Committee (no<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> being p iſoners of War) had ſent down the Lord Capels Son, with others that he might be ſent in exchange for Sir <hi>Wil. Maſſam.</hi> His Excellencie therewith ſent 2. affidavi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s upon Oath, by which i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> appeared that by the Earl of <hi>Norw<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch</hi> &amp; the Officers directions, the Souldiers chewed bullets and caſt with ſand delivered out of the ſtores whence they uſually received their Ammunition, which be<g ref="char:EOLhyphen"/>ing a thing contr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ry to the Law of Armes, he requi<g ref="char:EOLhyphen"/>red the like might be forborn for the future, or to expect what will follow.</p>
+            <p>To that concerning the Lord <hi>Capels</hi> Son: This e<g ref="char:EOLhyphen"/>vening his Lordſhip made a particular Anſwer, That
+<pb n="2" facs="tcp:161924:3"/>
+he conceived it in humane, and that if all the Com<g ref="char:EOLhyphen"/>mittee had been offered for him, he would have diſ<g ref="char:EOLhyphen"/>dained the motion, and that he joyed to ſee any of his, (if no other way) yet by their ſufferings, to pay that duty they owe to the King, and known lawes to the Kingdom. To that concerning <hi>Bullers</hi> the Tripa<g ref="char:EOLhyphen"/>rite Generalls returned Anſwer, denying any ſuch command or practice; but for rough caſt Sluggs, they were the beſt they could ſend on the ſuddain.</p>
+            <p>This day we have been verie quiet; not one horſe or man of the enemy appearing out of their works: Our men have ſecured <hi>Grinſtead</hi> Church, and the paſſe from the Heath, ſo that now both the Eaſt and North paſſages are ſo ſtopt, that they can make no incurſions into Tendering Hundred or any part for proviſion. The works near the Almes houſes began the other night is now almoſt finiſhed, the graft ſo high that they are forced to make uſe of Ladders or the perfecting thereof. Our perdues lye ſo near the Enemy as to hear them diſcourſe, drink healths, &amp;c. Some of our Musketiers go ſo near the Town to<g ref="char:EOLhyphen"/>wards Headgate that the Enemies M<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sketiers fire out of the windows upon them; The enemy hath this day opened 3. of their ſallyports, and left only Headgate blocks up, which as is conceived is in rela<g ref="char:EOLhyphen"/>tion to an eſcape.</p>
+            <p>As ſoone as it was day this morning, the enemy played their great Guns <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gainſt ou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Horſe Cu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rds, and new work near the Almes houſe, but when they ſaw how deepe our men were in their Trenches that the ſhot could not hurt, they deſiſted ſhooting with great ſhot, and fel<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to annoy us with ſmall ſhot out of
+<pb n="3" facs="tcp:161924:3"/>
+Mr. <hi>Grimſtons</hi> houſe, but our great Cannon ſhooting through and through the houſe, cutting off the leggs and Armes of many of them that were glad to flye into the Town, and in a malicious humour ſet the houſe on fire, and burnt other houſes with it.</p>
+            <closer>
+               <dateline>Colcheſter
+<date>Iune 3. 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>A moſt horrid and bloody Plot againſt the Kings Majeſty in the Iſle of Wyght.</head>
+            <opener>
+               <salute>My Lords.</salute>
+            </opener>
+            <p>J Am ready to make an Oath that Mr. <hi>Richard Os<g ref="char:EOLhyphen"/>burne,</hi> told me, the Kings perſon was in danger, and that the ſaid Major <hi>Rolph;</hi> had a deſigne for conveying his Majeſties perſon to ſome place of ſe<g ref="char:EOLhyphen"/>creſie, where only three ſhould goe with him, and where they might diſp<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſe of his Majeſties perſon as they ſhould think fit, Which i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>formations from Mr. <hi>Osburn,</hi> and the aſſurance I had of his Majeſties in<g ref="char:EOLhyphen"/>tentions forthwith to come to his Parliament, was the cauſe of my ingagement in this buſineſſe.</p>
+            <p>I am ready likewiſe to depoſe, that the ſaid <hi>Rolph</hi> came to mee, when I was a priſoner in the Caſtle, and in a jearing Manner aked me why the King came not down according to his appointment. And then in great indignation and fury ſaid, he waited three houres under the Plat form with a good piſtoll rea<g ref="char:EOLhyphen"/>dy charged, to have received him if hee had come.</p>
+            <closer>
+               <signed>Your Lordſhips ſervant, Abraham Dowcet.</signed>
+               <dateline>Weſtminſter <date>the 3 of July, 1648.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>Mr. <hi>Abraham Doucet,</hi> delivered this upon Oath, to bee all truth, before their Lordſhips.</p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <pb n="4" facs="tcp:161924:4"/>
+            <head>Major Rolphs Letter to the Lords.</head>
+            <opener>
+               <salute>My Lords.</salute>
+            </opener>
+            <p>KNowing my ſelf (I ſpeak in the preſence of that God who ſearcheth all hearts to be perfectly clear and innocent of that foule and horrid crime charged upon me that I abhorre the very thoughts of it: Earneſtly deſiring an opportunity of appearing for vindication of my inno<g ref="char:EOLhyphen"/>cency, or what ever elſe malice in wicked men can lay a<g ref="char:EOLhyphen"/>gainſt me; reſting fully aſſured that whatſoever award I ſhall find at the hands of men, I ſhall injoy the happineſſe of an upright and peaceable conſcience with the ſame God in whoſe preſence I ſtand.</p>
+            <closer>
+               <signed>Edward Rolph.</signed>
+            </closer>
+         </div>
+         <div type="Parliamentary_declaration">
+            <opener>
+               <dateline>
+                  <date>Die Lunae 3 of July, 1648.</date>
+               </dateline>
+            </opener>
+            <p>ORdered by the Lords in Parliament that it be referred to the Kings learned Councell to bring in an impeachment of High Treaſon againſt Major <hi>Edward Rolph.</hi>
+            </p>
+            <p>The enemy ſallied out the laſt night on the other ſide the leagure toward Suffolk, which our horſe diſ<g ref="char:EOLhyphen"/>covering, lined the hedges with Dragoones, and went on with a party of horſe, as if they had meant to charge the enemy, and then faced about runing a<g ref="char:EOLhyphen"/>way as if they had been afraid of the enemy who purſued them, and as ſoone as they came up to the Dragoones, did ſo gall the enemy with ſhot that they forboore to advance further there being at that time a Lieut. Col. and 4 other Officers of the enemy very deſperately wounded, and ſome ſl in, as ſome who came out of the Town this day affirmed: And this morning they ſallied out again with three Troops of horſe, 500. foot, and a Drake, our horſe guard that were upon the Rode from Eaſt gate towards Ten<g ref="char:EOLhyphen"/>dering
+<pb n="5" facs="tcp:161924:4"/>
+Hundred perceiving the drawing out both horſe and foot toward Grinſted Church; whereupon the paſſage being narrow, the horſe could not engage them, foot were ſent for to come to the aſſiſtance of the horſe, but before our foot could come up from the Suffolk forces, the Enemy had taken up therea<g ref="char:EOLhyphen"/>bouts and driven in ſome Cattel, and killed one Mr. <hi>Sanaford</hi> at Brittleſea that had intereſt in the Cattel, though as it is ſaid he was their great friend. And this night we deſigned to fortifie
+<hi>Grinſted</hi> Church nea<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Hive with foote and a piece of Cannon; ſo that they muſt take their farwell of any more provi<g ref="char:EOLhyphen"/>ſions, had Suffolk Fort been finiſhed ſooner, we had foot as well as horſe to have ſecured that hundred.</p>
+            <p>Four Companies of Col. <hi>Ingolsbies</hi> Regiment and ſome horſe are marcht to ſecure that Church, which commands the cauſey, and gives paſſage over Hive bridge into Tendering hundred.</p>
+            <p>There was this day taken priſoner in or near Har<g ref="char:EOLhyphen"/>wich a Colonell that came out of Colcheſter who upon examination cald himſelfe Col. <hi>Smithſon;</hi> but ſome Townſmen who ſaw him there in Town, ſay that his ſouldiers cald him Col. Bard, but thoſe that have ſeen him it is not Sir <hi>Henry Bard.</hi>
+            </p>
+            <p>This day the enemy in Colcheſter gave out that 700 London Apprentices with fore gunes were this night come to Chelmsford for their releife, that the Parliament men are driven from Weſtminſter into the Army. The enemy have this night burnt M. Barringtons houſe on the other ſide the Town: They give out that they will fire the Subburbs, they are fortifying the L. Dacres his houſe in the Town, it
+<pb n="6" facs="tcp:161924:5"/>
+being moted round, and are reſolved to keepe that to the laſt, ſo that nothing but ddſtruction is expected to this poor Town.</p>
+            <closer>
+               <dateline>
+                  <date>July 3. 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <opener>
+               <salute>SIR.</salute>
+            </opener>
+            <p>SInce my laſt, dated <hi>June</hi> 24. we have received in<g ref="char:EOLhyphen"/>telligence, that the <hi>Engliſh</hi> revolted Ships which lye at <hi>Gor<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th</hi> in <hi>Holland,</hi> are almoſt ready to put to Se<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and that there are ſome whiſperings, touching a deſign againſt this Iſland; As for His M<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>j. he is not altogether ſo merry and pleaſant as formerly, by rea<g ref="char:EOLhyphen"/>ſon of the ſad commotions which daily happen, throughout ſeverall Counties within his Majeſties Realms and Dominions, his heart bring much incli<g ref="char:EOLhyphen"/>ned to peace, a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d deſirous to prevent the further effu<g ref="char:EOLhyphen"/>ſion of Chriſtian blood; And his Maj. hath further declared, that he deſires nothing more, then a right underſtanding betwixt himſelfe and his two Houſes of Parl. <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat ſo Religion may be ſetled, and all diffe<g ref="char:EOLhyphen"/>rences compoſed; And further it is intimated, that his Maj. doth not in the leaſt countenance the late Riſing within the County of <hi>Kent,</hi> &amp; he preſent diſtractions in the County of <hi>Eſſex,</hi> but doth abſolutely proteſt a<g ref="char:EOLhyphen"/>gainſt the ſame; as alſo, againſt the proceedings of Si<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Charles Lucas</hi> and his adherents; we are fortify<g ref="char:EOLhyphen"/>ing of this Iſland in ſeverall places, and repairing of the Works; As for the Fleet before ſpoken of, by the next, you ſhall hear further from</p>
+            <closer>
+               <dateline>Carisbrook Caſtle <date>the 1. of July 1648. 4 in the morning.</date>
+               </dateline> 
+               <signed>Your oblieged friend and Servant <hi>William Calum.</hi>
+               </signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
